@@ -20,7 +20,7 @@
     <img align="center" alt="ajax-facebook" width="40" src="https://image.flaticon.com/icons/png/512/174/174848.png" style="max-width:100%">
   </a>
 
-  <a href="https://api.whatsapp.com/send?phone=55559199834368&text=Sauda%C3%A7%C3%B5es%2C%20caro%20visitante!%20Vi%20seu%20perfil%20e%20vim%20de%20zap!" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=559199834368&text=Sauda%C3%A7%C3%B5es%2C%20caro%20visitante!%20Vi%20seu%20perfil%20e%20vim%20de%20zap!" target="_blank">
     <img align="center" alt="ajax-whatsapp" width="40" src="https://image.flaticon.com/icons/png/512/220/220236.png" style="max-width:100%">
   </a>
 
